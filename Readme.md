@@ -1,5 +1,5 @@
 # Lenhart Solutions website content
-https://lenhartsolutions.com/
+https://www.lenhartsolutions.com/
 
 ## Develop
 
