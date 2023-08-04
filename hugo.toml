@@ -1,0 +1,4 @@
+baseURL = 'https://lenhartsolutions.com/'
+languageCode = 'en-us'
+title = 'Clay Lenhart - dotnet Freelancer'
+theme = 'hugo-tranquilpeak-theme'
