@@ -12,13 +12,13 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = 'https://www.lenhartsolutions.com/'
+#baseURL = 'https://www.lenhartsolutions.com/'
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Clay Lenhart - dotnet Freelancer"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
-googleAnalytics = "G-74QM5G1EP1"
+# googleAnalytics = "G-74QM5G1EP1"
 paginate = 7
 canonifyurls = true
 
@@ -119,7 +119,7 @@ canonifyurls = true
   # -----------
   # Description
   # -----------
-  description = "Hugo tranquilpeak theme demo"
+  description = "Lenhart Solutions software developer freelancer"
 
   # ------------------
   # Syntax highlighter
@@ -348,7 +348,7 @@ canonifyurls = true
   # --------------
   [params.comment]
     [params.comment.disqus]
-      enable = true
+      enable = false
       shortname = "hugo-tranquilpeak-theme"
     [params.comment.gitalk]
       enable = false
