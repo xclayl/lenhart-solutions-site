@@ -17,4 +17,11 @@ Files are generated in the `public/` directory.
 
 ## Deploy
 
-TODO
+Push to master (uses github actions)
+
+## Notes
+
+Added a theme this way
+```
+git submodule add https://github.com/kakawait/hugo-tranquilpeak-theme.git themes/hugo-tranquilpeak-theme
+```
