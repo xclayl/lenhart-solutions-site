@@ -23,15 +23,21 @@ and team dynamics.  I am motivated to make organizations or applications "better
 
 {{< html/div class="simple-grid simple-grid-evenly" >}}
     {{< html/div >}}
-        {{< image classes="center" src="dotnet-logo.jpg" thumbnail="dotnet-logo.jpg" thumbnail-height="100px" >}}
+        {{< image classes="center" src="dotnet-logo.jpg" thumbnail="dotnet-logo.jpg" thumbnail-height="100px" alt=".Net" >}}
         {{< html/div style="text-align:center;color:#9eabb3" >}}
             20 years
         {{< /html/div >}}   
     {{< /html/div >}}
     {{< html/div >}}
-        {{< image classes="center" src="angular.png" thumbnail="angular.png" thumbnail-height="100px" >}}
+        {{< image classes="center" src="angular.png" thumbnail="angular.png" thumbnail-height="100px" alt="Angular" >}}
         {{< html/div style="text-align:center;color:#9eabb3" >}}
             10 years
+        {{< /html/div >}}   
+    {{< /html/div >}}
+    {{< html/div >}}
+        {{< image classes="center" src="vertical-logo-monochromatic.webp" thumbnail="vertical-logo-monochromatic.webp" thumbnail-height="100px" alt="Docker" >}}
+        {{< html/div style="text-align:center;color:#9eabb3" >}}
+            5 years
         {{< /html/div >}}   
     {{< /html/div >}}
 {{< /html/div >}}
