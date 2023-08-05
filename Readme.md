@@ -34,4 +34,8 @@ Added a theme this way
 git submodule add https://github.com/kakawait/hugo-tranquilpeak-theme.git themes/hugo-tranquilpeak-theme
 ```
 
-Uses bootstrap https://hugomods.com/en/bootstrap/layout/container/
+Uses shortcodes https://hugomods.com/en/docs/shortcodes/
+
+```
+hugo mod init github.com/xclayl/lenhart-solutions-site
+```
