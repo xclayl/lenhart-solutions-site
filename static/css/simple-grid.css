@@ -5,6 +5,10 @@
     margin-right: -0.25rem;
 }
 
+.simple-grid-evenly {
+    justify-content: space-evenly;
+}
+
 .simple-grid__cell {
     padding-left: 0.25rem;
     padding-right: 0.25rem;
