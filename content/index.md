@@ -61,7 +61,7 @@ and team dynamics.  I am motivated to make organizations or applications "better
 <!-- portfolio -->
 
 
-## Process
+
 
 {{< html/void _name=p >}}
 
@@ -72,14 +72,6 @@ and team dynamics.  I am motivated to make organizations or applications "better
         {{< /html/div >}}     
         {{< html/div style="text-align:center;color:#808a91;font-size:1.4rem;margin-bottom:20px;" >}}
             Agile
-        {{< /html/div >}}   
-    {{< /html/div >}}
-    {{< html/div style="max-width:120px;" >}} 
-        {{< html/div style="text-align:center;color:#210E3D;font-size:4rem;margin-bottom: 10px;" >}}
-            {{< html/tag _name=i class="far fa-comments" aria-hidden="true" >}}{{< /html/tag >}}
-        {{< /html/div >}}     
-        {{< html/div style="text-align:center;color:#808a91;font-size:1.4rem;margin-bottom:20px;" >}}
-            Collaborate with business stakeholders
         {{< /html/div >}}   
     {{< /html/div >}}
     {{< html/div style="max-width:120px;" >}} 
