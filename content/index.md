@@ -95,7 +95,7 @@ and team dynamics.  I am motivated to make organizations or applications "better
             {{< html/tag _name=i class="fas fa-redo" aria-hidden="true" >}}{{< /html/tag >}}
         {{< /html/div >}}               
         {{< html/div style="text-align:center;color:#808a91;font-size:1.4rem;margin-bottom:20px;" >}}
-            Improve code and process
+            Improve code and processes
         {{< /html/div >}}   
     {{< /html/div >}}
     {{< html/div style="max-width:120px;" >}} 
