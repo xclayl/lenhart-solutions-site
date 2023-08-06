@@ -18,8 +18,11 @@ Hi, my name is Clay Lenhart and I specialize as a full stack web application dev
 and team dynamics.  I am motivated to make organizations or applications "better", whatever that means to clients.
 
 
-{{< html/void _name=p >}}
 
+
+## Techologies
+
+{{< html/void _name=p >}}
 
 {{< html/div class="simple-grid simple-grid-evenly" >}}
     {{< html/div >}}
@@ -42,29 +45,68 @@ and team dynamics.  I am motivated to make organizations or applications "better
     {{< /html/div >}}
 {{< /html/div >}}
 
+
+
+
+*Payments*: Stripe Credit Cards, BACS, 
+*Docker*: Docker Compose, Kubernetes, Azure Container Registry, Azure App Services,
+*Cloud*: Azure, Heroku, AWS, Google Cloud,
+*HTML & CSS*: Bootstrap, Flexbox,
+*Databases*: Postgres, SQL Server, Redis,
+*CI/CD*: Github Actions, Appveyor, Jenkins, Terraform/Terragrunt,
+*React*
+
+
+
 <!-- portfolio -->
 
 
-## Techologies
+## Process
 
-*.Net*: C#, nuget packages
+{{< html/void _name=p >}}
 
-*Angular*
-
-*Payments*: Stripe Credit Cards, BACS
-
-*Docker*: Docker Compose, Kubernetes, Azure Container Registry, Azure App Services
-
-*Cloud*: Azure, Heroku, AWS, Google Cloud
-
-*HTML & CSS*: Bootstrap, Flexbox
-
-*Databases*: Postgres, SQL Server, Redis
-
-*CI/CD*: Github Actions, Appveyor, Jenkins, Terraform/Terragrunt
-
-*React*
-
+{{< html/div class="simple-grid simple-grid-wrap simple-grid-evenly" >}}
+    {{< html/div style="max-width:120px;" >}} 
+        {{< html/div style="text-align:center;color:#210E3D;font-size:4rem;margin-bottom: 10px;" >}}
+            {{< html/tag _name=i class="fas fa-balance-scale-right" aria-hidden="true" >}}{{< /html/tag >}}
+        {{< /html/div >}}     
+        {{< html/div style="text-align:center;color:#808a91;font-size:1.4rem;margin-bottom:20px;" >}}
+            Agile
+        {{< /html/div >}}   
+    {{< /html/div >}}
+    {{< html/div style="max-width:120px;" >}} 
+        {{< html/div style="text-align:center;color:#210E3D;font-size:4rem;margin-bottom: 10px;" >}}
+            {{< html/tag _name=i class="far fa-comments" aria-hidden="true" >}}{{< /html/tag >}}
+        {{< /html/div >}}     
+        {{< html/div style="text-align:center;color:#808a91;font-size:1.4rem;margin-bottom:20px;" >}}
+            Collaborate with business stakeholders
+        {{< /html/div >}}   
+    {{< /html/div >}}
+    {{< html/div style="max-width:120px;" >}} 
+        {{< html/div style="text-align:center;color:#210E3D;font-size:4rem;margin-bottom: 10px;" >}}
+            {{< html/tag _name=i class="fas fa-code" aria-hidden="true" >}}{{< /html/tag >}}
+        {{< /html/div >}}     
+        {{< html/div style="text-align:center;color:#808a91;font-size:1.4rem;margin-bottom:20px;" >}}
+            Simple, testable, supportable, maintainable code
+        {{< /html/div >}}   
+    {{< /html/div >}}
+    {{< html/div style="max-width:120px;" >}}  
+        {{< html/div style="text-align:center;color:#210E3D;font-size:4rem;margin-bottom: 10px;" >}}
+            {{< html/tag _name=i class="fas fa-redo" aria-hidden="true" >}}{{< /html/tag >}}
+        {{< /html/div >}}               
+        {{< html/div style="text-align:center;color:#808a91;font-size:1.4rem;margin-bottom:20px;" >}}
+            Improve code and process
+        {{< /html/div >}}   
+    {{< /html/div >}}
+    {{< html/div style="max-width:120px;" >}} 
+        {{< html/div style="text-align:center;color:#210E3D;font-size:4rem;margin-bottom: 10px;" >}}
+            {{< html/tag _name=i class="fas fa-glasses" aria-hidden="true" >}}{{< /html/tag >}}
+        {{< /html/div >}}     
+        {{< html/div style="text-align:center;color:#808a91;font-size:1.4rem;margin-bottom:20px;" >}}
+            Keep updated with the latest techology
+        {{< /html/div >}}   
+    {{< /html/div >}}
+{{< /html/div >}}
 
 
 

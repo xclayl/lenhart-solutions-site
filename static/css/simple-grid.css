@@ -1,5 +1,6 @@
 .simple-grid {
     display: flex;
+    flex-direction: row;
 
     margin-left: -0.25rem;
     margin-right: -0.25rem;
@@ -7,6 +8,10 @@
 
 .simple-grid-evenly {
     justify-content: space-evenly;
+}
+
+.simple-grid-wrap {
+    flex-wrap: wrap;
 }
 
 .simple-grid__cell {
@@ -27,4 +32,35 @@
 }
 .simple-grid__cell--1\/4 {
     flex: 0 0 25%;
+}
+
+.simple-grid-col {
+    display: flex;
+    flex-direction: column;
+
+    margin-left: -0.25rem;
+    margin-right: -0.25rem;
+    align-items: center;
+}
+
+@media only screen and (min-width: 1280px) {
+    .simple-grid-lg {
+        display: flex;
+        flex-direction: row;
+    
+        margin-left: -0.25rem;
+        margin-right: -0.25rem;
+        align-items: normal;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .simple-grid-md {
+        display: flex;
+        flex-direction: row;
+    
+        margin-left: -0.25rem;
+        margin-right: -0.25rem;
+        align-items: normal;
+    }
 }
